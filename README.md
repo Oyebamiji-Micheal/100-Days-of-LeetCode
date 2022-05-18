@@ -17,5 +17,4 @@
 > "I pursue my Data Science and Machine Learning Career. According to advise from experts in the industry, it is better to start off with Data Analytics. Then, one can build up on previously gained knowledge and experience.
 >
 ### A little bit about Data Analysis
-> Although this question is a little bit off topic, yet, I feel like sharing what I have learnt or rather learning and the courses I am taking. I am currently enrolled in the Alx Data Analytics Program and OneCampus Data Analytics track. In the next few months, I would have more indepth knowledge about the data analytics process: Data Extraction, Cleaning, Wrangling, Analysis and Action. I will also build a few projects which will available soon. Thank You!
-
+> Although this is a little bit off topic, yet, I feel like sharing what I have learnt or rather learning and the courses I am taking. I am currently enrolled in the Alx Data Analytics Program and OneCampus Data Analytics track. In the next few months, I would have more indepth knowledge about the data analytics process: Data Extraction, Cleaning, Wrangling, Analysis and Action. I will also build a few projects which will available soon. Thank You!
