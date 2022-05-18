@@ -15,7 +15,7 @@
 >
 ### What do I hope to learn in the long run?
 
-> "A journey of a thousand miles begins with a single step". Before learning more sophisticated algorithms, I wish to learn some basic data structures and algorithms. This will help in writing more optimized code. Common DSA which include queues and stacks, dynamic programming, binary search, linked list, trees, knapsack problems etc. 
+> "A journey of a thousand miles begins with a single step". Before learning more sophisticated algorithms, I wish to learn some basic data structures and algorithms. This will help in writing more optimized code. Common DSA which include queues and stacks, dynamic programming, memoization, recursion, binary search, linked list, trees, knapsack problems etc. 
 >
 ### What I do when I am not learning algorithms  
 
