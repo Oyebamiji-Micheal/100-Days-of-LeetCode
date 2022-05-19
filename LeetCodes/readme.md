@@ -1,4 +1,4 @@
-<img src=https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/A%20thousand%20mile%20Journey.png height="200" width="300" >
+<img src= https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/images/A%20thousand%20mile%20Journey.png height="200" width="300" >
 
 |Day |                          Question            |      Solution            | Language    | Difficulty|
 |:----:|:------------------------------------------:  | ----------------------:  |:-----------:|:------------|
