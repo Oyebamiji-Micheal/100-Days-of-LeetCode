@@ -1,5 +1,5 @@
 ### Explanation
->- Find the maximum number in the list, say max_num.
+>- Find the maximum number in the list, say max_num
 >- Then check for all numbers in the range ```1 <= x <= max_num ```
 >- Return the number that satisfies the requirement
 
