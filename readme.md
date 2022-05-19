@@ -1,5 +1,5 @@
 # 100-Days-of-LeetCode
-## Algorithms and Data Structures Practice
+## Fundamental Data Structures and Algorithms
 
 ### Introduction
 
