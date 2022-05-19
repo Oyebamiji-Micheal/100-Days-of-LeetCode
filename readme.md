@@ -7,7 +7,7 @@
 > 
 ### Objective
 
-> Drawing valid conclusions from large data would require more than simple descriptive statistics. Understanding the design of algorithms helps one in writing good optimized code. Furthermore, sophisticated algorithms can be used to analyze big data in microseconds and come up with a real-time solution. My objective is to learn fundamental data structures and algorithms. I have also decided to practice what I have learnt, and will be learning. What better place would that be if not on one of the best platforms to learn DSA, LeetCode! 
+> Drawing valid conclusions from large data would require more than simple descriptive statistics. More complex algorithms are used to analyze big data in microseconds and come up with a real-time solution. Furthermore, understanding the design of algorithms helps one in writing good optimized code. My objective is to learn fundamental data structures and algorithms. I have also decided to practice what I have learnt, and will be learning. What better place would it be if not on one of the best platforms to learn DSA, LeetCode! 
 >
 ### Why am I really doing this?
 
