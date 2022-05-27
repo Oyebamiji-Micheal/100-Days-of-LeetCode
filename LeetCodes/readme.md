@@ -10,3 +10,4 @@
 |6      | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Valid%20Parentheses.md)  | Python  | Easy  |
 |7      | [Find the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Find%20duplicate.md)  | Python  | Medium  |
 |8      | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Median%20of%20Two%20Sorted%20Arrays.md)  | Python  | Hard  |
+|9      | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)  | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Non-decreasing%20Array.md) | Python  | Medium  |
