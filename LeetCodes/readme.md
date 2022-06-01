@@ -15,3 +15,4 @@
 |11       | [Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/)  | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Find%20All%20Lonely%20Numbers%20in%20the%20Array.md) | Python  | Medium
 |12       | [Unique Paths](https://leetcode.com/problems/unique-paths/)  | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Unique%20Paths.md) | Python  | Medium
 |13       | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/01%20Matrix.md)  | Python  | Medium
+|14       | [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/)  | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Max%20consecutive%20ones.md)   | Python   |  Easy
