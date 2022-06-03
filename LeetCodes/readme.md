@@ -17,3 +17,4 @@
 |13       | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/01%20Matrix.md)  | Python  | Medium
 |14       | [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/)  | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Max%20consecutive%20ones.md)   | Python   |  Easy
 |15       | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Count%20and%20Say.md)  | Python  | Medium  |
+|16       | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Find%20Peak%20Element.md)  | Python  | Medium  |
