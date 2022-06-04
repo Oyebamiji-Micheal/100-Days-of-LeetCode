@@ -18,3 +18,5 @@
 |14       | [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/)  | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Max%20consecutive%20ones.md)   | Python   |  Easy
 |15       | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Count%20and%20Say.md)  | Python  | Medium  |
 |16       | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Find%20Peak%20Element.md)  | Python  | Medium  |
+|17       | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Check%20If%20N%20and%20Its%20Double%20Exist.md)  | Python  | Easy  |
+
