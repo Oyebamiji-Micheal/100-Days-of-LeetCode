@@ -22,3 +22,4 @@
 |18       | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)   | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Dota2%20Senate.md)  |  Python  | Medium  |
 |19       | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Longest%20Increasing%20Subsequence.md) | Python  | Medium  |
 |20       | [Edit Distance](https://leetcode.com/problems/edit-distance/)   |   [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Edit%20Distance.md)   |  Python    | Hard  |
+|21       | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Ransom%20Note.md)   |  Python  | Easy
