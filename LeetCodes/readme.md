@@ -23,3 +23,4 @@
 |19       | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Longest%20Increasing%20Subsequence.md) | Python  | Medium  |
 |20       | [Edit Distance](https://leetcode.com/problems/edit-distance/)   |   [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Edit%20Distance.md)   |  Python    | Hard  |
 |21       | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Ransom%20Note.md)   |  Python  | Easy
+|22       | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Binary%20Tree%20Preorder%20Traversal.md)  | Python  | Easy
