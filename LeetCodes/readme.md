@@ -31,3 +31,4 @@
 |27       | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)   | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Sum%20of%20Subarray%20Minimums.md)   | Python  | Medium
 |28 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Integer%20Replacement.md) | Python | Medium |
 |29       | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)   | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Search%20in%20a%20Binary%20Search%20Tree.md)  | Python  | Easy
+|30       | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)   | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/3Sum%20Closest.md)  | Python  | Medium
