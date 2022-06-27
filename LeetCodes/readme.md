@@ -41,3 +41,4 @@
 |37       | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Contains%20Duplicate%20II.md)  | Python  | Easy
 |38       | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/N-th%20Tribonacci%20Number.md) | Python  | Easy
 |39       | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)  |  [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Repeated%20DNA%20Sequences.md)    | Python  | Medium
+|40       | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Valid%20Mountain%20Array.md)  | Python  | Easy
