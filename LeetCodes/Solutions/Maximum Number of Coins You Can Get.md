@@ -5,7 +5,7 @@
  - We repeat this process until we have picked all 'maximums' and 'minimums'. 
 
 Code
-```
+```Python
 class Solution:
     def maxCoins(self, piles: List[int]) -> int:
         piles.sort(reverse=True)
@@ -22,4 +22,4 @@ class Solution:
         return s
         
         
-    ```
+```
