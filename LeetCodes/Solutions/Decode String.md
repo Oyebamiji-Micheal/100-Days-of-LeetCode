@@ -1,4 +1,4 @@
-Cod
+Code
 
 ```Python
 def check1(char):
