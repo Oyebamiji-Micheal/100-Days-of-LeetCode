@@ -1,5 +1,6 @@
-Space complexity O(1)    
-Time complexity O($n^2$)
+First approach (Accepted)  
+Space complexity: O(1)    
+Time complexity: O($n^2$)
 
 Code (Algorithm: Prefix Sum)
 ```Python 
@@ -25,4 +26,29 @@ class Solution:
         
         return False
                 
+```     
+<br>
+<br>
+<br>
+
+Second approach (Accepted)  
+Space Complex: O(n)  
+Time Complexity: O(n)
+
+Code
+```Python
+class Solution:
+    def checkSubarraySum(self, nums: List[int], k: int) -> bool:
+        hashmap = {0:-1}
+        run_sum = 0
+        for idx, val in enumerate(nums):
+            run_sum += val
+            rem = run_sum % k
+            if rem not in hashmap:
+                hashmap[rem] = idx
+            elif idx - hashmap[rem] > 1:
+                return True
+            
+        return False
+        
 ```
