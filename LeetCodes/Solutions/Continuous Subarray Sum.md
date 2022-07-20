@@ -1,4 +1,4 @@
-First approach (Accepted)  
+First approach (Accepted)   
 Space complexity: O(1)    
 Time complexity: O($n^2$)
 
