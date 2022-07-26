@@ -5,7 +5,7 @@ class Solution:
     def longestPalindrome(self, s: str) -> str:
     
         start = 0
-        end = 1
+        end = 0
         n = len(s)
         dp = [[0]*n for i in range(n)]
 
@@ -18,15 +18,13 @@ class Solution:
                 end = i + 1
                 dp[i][i+1] = 1
 
-        for i in range(3, n):
-            for j in range(i, n+1):
-                start_idx = j - i
-                j -= 1
-                if s[start_idx] == s[j] and dp[start_idx+1][j-1] == 1:
-                    dp[start_idx][j] = 1
-                    start = start_idx 
+        for i in range(2, n):
+            for j in range(i, n):
+                if s[j-i] == s[j] and dp[j-i+1][j-1] == 1:
+                    dp[j-i][j] = 1
+                    start = j-i
                     end = j
 
-        return s[start:end+1]
+        return s[start:end+1] 
 
 ```
