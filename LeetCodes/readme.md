@@ -102,3 +102,4 @@
 |98   | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Find%20Triangular%20Sum%20of%20an%20Array.md)  | Python  | Medium  |
 |99   | [Number of Islands](https://leetcode.com/problems/number-of-islands/)   | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Number%20of%20Islands.md)  | Python  | Medium  |
 |100  | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Flood%20Fill.md)   | Python  | Easy  |
+|101  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)  | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Pascal's%20Triangle%20II.md)  | Python  | Easy
