@@ -15,7 +15,7 @@ def checker(height):
         else:
             left += 1
          
-    return area
+    return area 
 
 class Solution:
     def maxArea(self, height: List[int]) -> int:
