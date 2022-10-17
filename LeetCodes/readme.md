@@ -104,4 +104,4 @@
 |100  | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Flood%20Fill.md)   | Python  | Easy  |
 |101  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)  | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Pascal's%20Triangle%20II.md)  | Python  | Easy
 |102 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Container%20With%20Most%20Water.md) | Python | Medium
-|103 | [Container With Most Water](https://leetcode.com/problems/count-primes/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Count%20Primes.md) | Python | Medium
+|103 | [Count Primes](https://leetcode.com/problems/count-primes/) | [Solution](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode/blob/main/LeetCodes/Solutions/Count%20Primes.md) | Python | Medium
